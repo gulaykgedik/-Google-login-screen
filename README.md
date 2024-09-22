@@ -7,5 +7,6 @@ Google giriş ekranı.
 
 Html-Css kullanılarak yapıldı.
 
-https://github.com/user-attachments/assets/d6d1529e-82b8-4347-acbc-a4b8fcf72542
 
+
+![Google-screen](https://github.com/user-attachments/assets/48f3aa18-e33a-468e-83c5-2ddda63eae65)
